@@ -46,7 +46,8 @@ El argumento -l proporciona una lista detallada, mostrando información adiciona
 docker exec jenkins-server ls -l
 
 ```
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/445641b3-a8c2-42d5-9ea4-05f2cde89b58)
+
 
 
 ### Para ejecutar un shell interactivo en un contenedor de Docker especificado.
